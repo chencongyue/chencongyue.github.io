@@ -1,33 +1,19 @@
 WELLCOME TO MY WORLD!!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chencongyue/chencongyue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+WE who are old, old and gay,
+O so old!
+Thousands of years, thousands of years,
+If all were told:
+Give to these children, new from the world,
+Silence and love;
+And the long dew-dropping hours of the night,
+And the stars above:
+Give to these children, new from the world,
+Rest far from men.
+Is anything better, anything better?
+Tell us it then:
+Us who are old, old and gay,
+O so old!
+Thousands of years, thousands of years,
+If all were told.
+William Butler Yeats
